@@ -1,47 +1,47 @@
-Prosjekt-001 :Survey Form
+ASSIGNMENT-2 :Ansatte
 Beskrivelse
-Prosjekt har som mål å lage spørreskjema innen html og css.
+Prosjekt har som mål å lage nettside innen html og css.
 
 Problemstilling
-Din bedrift har nylig startet på et prosjekt som tar sikte på å gjennomføre en undersøkelse for å måle kravene og interessene til kundene. Så du og kollegene dine har begynt å jobbe med prosjektet.
+Lage nettside med bilder av "The Creative Team" med jobbstillingen dems og beskrivelse av hva de jobber med
+
 Prosjekt skjelett
 Survey-form (folder)
 |
-|----readme.md                   
+|----readmeasign2.md                   
 |----solution
-        |----index.html  
-        |----style.css   
-        |----result.html 
+        |----hoetemele.html  
+        |----cesscscs.css   
+        |----photo1.html
+        |----photo2.html
+        |----photo3.html
+        |----photo4.html
+        |----photo5.html
+        |----photo6.html
+        
 Forventet resultat
-Project 001 Snapshot
+Nettside (hoetemele.html)
 
 Objektiv
-Bygg et spørreskjema som er funksjonelt likt dette: Survey Form
+Lage nettside slik at den ser bra ut.
 
 På slutten av prosjektet skal følgende emner dekkes;
-HTML Forms-Input Types
 
-HTML Form Elements
+“The creative crew” skal være <h1> 
 
-CSS Colors-Border Properties
+“WHO WE ARE” skal være <h3> 
 
-CSS Margins-Padding
+“We are team of creatively diverse. driven. innovative individuals working in various locations from the world.” skal være <p> 
 
-CSS Properties for Texts-Font Families-Links
+“PRODUCT OWNER” skal være <span> 
+
+“Bill Mahoney” skal være <p> 
 
 På slutten av prosjektet vil evelene kunne;
 forbedre kodeferdighetene innen HTML & CSS
 
 bruke git-kommandoer (push, pull, commit, add osv.) og Github som versjonskontrollsystem.
 
-Trinn til løsning
-Trinn 1: Last ned prosjektrepo på Github
-
-Trinn 2: Lag prosjektmappe for lokal offentlig repo på PC-en din
-
-Trinn 3: Lag "Survey Form"
-
-Trinn 4: Push applikasjonen din inn i din egen offentlige repo på Github
 
 Notater
 Du kan bruke HTML og CSS for å fullføre dette prosjektet.
