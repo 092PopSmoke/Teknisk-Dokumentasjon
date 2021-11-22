@@ -1,47 +1,22 @@
-Prosjekt-001 :Survey Form
+VSC 1
 Beskrivelse
-Prosjekt har som mål å lage spørreskjema innen html og css.
+Prosjekt har som mål å lage Nettside, som ser ut som Google Chrome nettleser innen html og css.
 
 Problemstilling
-Din bedrift har nylig startet på et prosjekt som tar sikte på å gjennomføre en undersøkelse for å måle kravene og interessene til kundene. Så du og kollegene dine har begynt å jobbe med prosjektet.
+Den skal se helt ut som Google Chrome.
 Prosjekt skjelett
-Survey-form (folder)
 |
-|----readme.md                   
+|----readmevcs1.md                   
 |----solution
-        |----index.html  
-        |----style.css   
-        |----result.html 
+        |----homepage.html  
+        |----homepage.css   
 Forventet resultat
-Project 001 Snapshot
+Google Chrome Homepage, med bilder.
 
 Objektiv
-Bygg et spørreskjema som er funksjonelt likt dette: Survey Form
+Lage nettside som ligner på Google Chrome
 
-På slutten av prosjektet skal følgende emner dekkes;
-HTML Forms-Input Types
 
-HTML Form Elements
-
-CSS Colors-Border Properties
-
-CSS Margins-Padding
-
-CSS Properties for Texts-Font Families-Links
-
-På slutten av prosjektet vil evelene kunne;
-forbedre kodeferdighetene innen HTML & CSS
-
-bruke git-kommandoer (push, pull, commit, add osv.) og Github som versjonskontrollsystem.
-
-Trinn til løsning
-Trinn 1: Last ned prosjektrepo på Github
-
-Trinn 2: Lag prosjektmappe for lokal offentlig repo på PC-en din
-
-Trinn 3: Lag "Survey Form"
-
-Trinn 4: Push applikasjonen din inn i din egen offentlige repo på Github
 
 Notater
 Du kan bruke HTML og CSS for å fullføre dette prosjektet.
