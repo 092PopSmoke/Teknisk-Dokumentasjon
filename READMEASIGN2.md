@@ -1,4 +1,5 @@
 ASSIGNMENT-2 :Ansatte
+
 Beskrivelse
 Prosjekt har som mål å lage nettside innen html og css.
 
@@ -10,7 +11,7 @@ Survey-form (folder)
 |
 |----readmeasign2.md                   
 |----solution
-        |----hoetemele.html  
+        |----index.html  
         |----cesscscs.css   
         |----photo1.html
         |----photo2.html
@@ -20,10 +21,11 @@ Survey-form (folder)
         |----photo6.html
         
 Forventet resultat
-Nettside (hoetemele.html)
+Nettside (index.html) 
+https://092popsmoke.github.io/Checkout-Page/
 
 Objektiv
-Lage nettside slik at den ser bra ut.
+Lage nettside slik at den ser bra ut, og passer til oppdraget
 
 På slutten av prosjektet skal følgende emner dekkes;
 
@@ -42,6 +44,8 @@ forbedre kodeferdighetene innen HTML & CSS
 
 bruke git-kommandoer (push, pull, commit, add osv.) og Github som versjonskontrollsystem.
 
+Trinn til løsning
+        1. Bruk bilder fra teams for oppgaven.
 
 Notater
 Du kan bruke HTML og CSS for å fullføre dette prosjektet.
